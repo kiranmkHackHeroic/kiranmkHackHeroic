@@ -1,4 +1,5 @@
 ##💫 About Me:
+
 An AI Engineer is driven by the passion for building impactful solutions using advanced Machine Learning and Deep Learning techniques. The AI Engineer's expertise spans the crucial domains of Computer Vision and Natural Language Processing (NLP), allowing the engineer to design, develop, and deploy real-world AI applications that address complex challenges. Currently, the AI Engineer is actively immersed in research and experimentation with multimodal Vision-Language Models, pushing the boundaries of AI capabilities. The AI Engineer thrives on innovation and is always open to collaborating on cutting-edge AI projects and actively contributing to the open-source community.
 
 
